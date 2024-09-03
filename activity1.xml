@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Friends>
+
+<Title>Students Of Humber College</Title>
+
+<Harsh>
+    <Name>Harsh Patel</Name>
+    <Hobbies>
+        <Hobby>Reading</Hobby>
+        <Hobby>Gaming</Hobby>
+        <Hobby>Cycling</Hobby>
+    </Hobbies>
+</Harsh>
+
+<Yesha>
+    <Name>Yesha Patel</Name>
+    <Hobbies>
+        <Hobby>Music</Hobby>
+        <Hobby>travelling</Hobby>
+        <Hobby>Reading</Hobby>
+    </Hobbies>
+</Yesha>
+
+<Karan>
+    <Name>Karan Sinh</Name>
+    <Hobbies>
+        <Hobby>Gaming</Hobby>
+        <Hobby>wtitting</Hobby>
+        <Hobby>Eating</Hobby>
+    </Hobbies>
+</Karan>
+
+<Nikita>
+    <Name>Nikita Sawant</Name>
+    <Hobbies>
+        <Hobby>Cooking</Hobby>
+        <Hobby>travelling</Hobby>
+        <Hobby>Cycling</Hobby>
+    </Hobbies>
+</Nikita>
+
+<Yash>
+    <Name>Yash Patel</Name>
+    <Hobbies>
+        <Hobby>Cooking</Hobby>
+        <Hobby>Gaming</Hobby>
+        <Hobby>Cycling</Hobby>
+    </Hobbies>
+</Yash>
+
+</Friends>
+
+
